@@ -1,0 +1,51 @@
+@import"../sass/global.scss";
+@import"../sass/masterhead.scss";
+
+
+@mixin color {
+    color: white;
+    
+}
+.menu-section, a ,h2{
+    @include color;
+}
+.menu-bar {
+    div{
+    background-color: white;
+}
+}
+
+
+.menu-img{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+    margin-top: 5rem;
+    margin-left: 9rem;
+    
+  
+    img{
+       
+        opacity: 0.3;
+        margin-left: 6rem;
+    }
+
+    .white-rectangle{
+        width: 43.264rem;
+        height: 12.662rem;
+
+    }
+
+    .white-circle{
+        width: 24.046rem; 
+        height:24.046rem;
+    }
+    .menu-heading{
+        position: absolute;
+        
+    }
+}
+
+
+

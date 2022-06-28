@@ -1,0 +1,106 @@
+.tech-section{
+    position: relative;
+    padding: 14rem 20rem;
+    color: white;
+}
+.tech-section-wrap{
+    margin-left: 6rem;
+}
+
+
+.tech-logo{
+   left: 2rem;
+   padding-bottom: 5rem;
+}
+.tech-logo>img{
+    width: 4.71rem;
+    height: 3.896rem;
+}
+
+.tech-section-heading{
+    margin-bottom: 2rem;
+}
+
+.tech-row{
+    display: flex;
+    justify-content: space-between;  
+
+}
+ .tech-col{
+    margin-top: 2rem;
+    width: 24rem;
+    
+}
+.tech-col >h4{
+    font-size: 2rem;
+} 
+
+.tech-para{
+    color: #F3F3F3;
+    opacity: 0.2;
+    margin: 2rem 0;
+}
+.tech-row p{
+    font-size: 1.02rem;
+}
+.address{
+    margin-top: 4rem ;
+
+}
+address{
+    
+    font-style:inherit;
+  
+}
+ul{
+    margin-top: 4rem;
+    list-style-type: none;
+
+}
+ul li{
+    display: inline-block;
+    margin-right: 5px;
+}
+
+
+
+.tech-section-img{
+    position: absolute;
+    top: 9rem;
+    left: -12rem;
+    
+}
+.tech-section-img img{
+    opacity: 0.2;
+}
+
+.tech-top-img, .tech-bottom-img {
+    display: flex;
+   
+}
+
+.tech-top-img{
+   
+    margin-bottom:6rem ;
+}
+.tech-bottom-img{
+    margin-top: 7.5rem;
+}
+
+.left-first-img, .left-bottom-second-img{
+    width: 38.84rem;
+    height: 38.85rem;
+}
+.left-second-img, .left-bottom-first-img{
+   
+    width: 59.9rem;
+    height: 20rem;
+} 
+.left-second-img{
+margin-left: -16.5rem;
+}
+
+.left-bottom-second-img{
+    margin-top: -19rem;
+    margin-left: -16.5rem;
+}

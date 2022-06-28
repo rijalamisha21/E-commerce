@@ -1,0 +1,52 @@
+.contact-section-wrap {
+  padding: 8rem 11rem;
+}
+
+.contact-para {
+  margin: 2rem 0;
+}
+
+input {
+  outline: none;
+  font-family: "Open Sans", sans-serif;
+  width: 37rem;
+  height: 3.8rem;
+  margin: 8px;
+  font-size: 1rem;
+}
+
+/* input::placeholder{
+    color: black;
+
+} */
+textarea, input[type=submit] {
+  outline: none;
+  width: 75.3rem;
+  margin: 8px;
+}
+
+textarea {
+  font-family: "Open Sans", sans-serif;
+  resize: none;
+  height: 7rem;
+}
+
+input[type=submit] {
+  height: 4.6rem;
+  color: var(--white);
+  border: none;
+  background-color: var(--bg-color);
+}
+
+input[type=submit]:hover {
+  background-color: #105a4c;
+  cursor: pointer;
+}
+
+.contact-link {
+  text-decoration: 1px underline black;
+}
+
+.form-para {
+  margin: 2rem 3rem;
+}/*# sourceMappingURL=contact-page.css.map */

@@ -1,0 +1,69 @@
+.sucess-section-wrap {
+  padding: 4.5rem 11rem;
+}
+
+.sucess-container {
+  color: white;
+  display: flex;
+  gap: 2rem;
+}
+
+.sucess-para-container > h6 {
+  margin: 6rem 0;
+}
+
+.sucess-para {
+  font-size: 2rem;
+}
+
+.sucess-p {
+  margin-top: -5rem;
+}
+
+.sail-img {
+  background-image: url(../image/sailracing.jpg);
+  filter: brightness(70%);
+}
+
+.sail-img, .sunread-img, .berkely-img {
+  width: 49rem;
+  height: 47rem;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.sail-picture {
+  margin-right: -13rem;
+}
+
+.sunread-img {
+  background-image: url(../image/sunread.jpg);
+  filter: brightness(50%);
+}
+
+.berkely-img {
+  background-image: url(../image/berkely-white.jpg);
+}
+
+.sucess-para-container, .sucess-picture {
+  width: 49rem;
+  height: 47rem;
+}
+
+.sailracing-logo {
+  margin: 18rem 10rem;
+  width: 34rem;
+  height: 5rem;
+}
+
+.sunread-logo {
+  margin: 19rem 10rem;
+  width: 32rem;
+  height: 2rem;
+}
+
+.berkely-logo {
+  margin: 12rem 6rem;
+  width: 36rem;
+  height: 17rem;
+}/*# sourceMappingURL=sucess-story.css.map */

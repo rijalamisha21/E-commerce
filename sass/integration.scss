@@ -1,0 +1,25 @@
+@import"../sass/global.scss";
+@import"../sass/masterhead.scss";
+@import"../sass/integration-section.scss";
+@import"../sass/service.scss";
+@import"../sass/mass.scss";
+@import"../sass/tech.scss";
+
+
+.block-para{
+    color: black;
+    margin-top: 9rem;
+}
+// h1,h2,h5,p{
+//     font-weight: normal;
+// }
+
+.logo2>img{
+    width: 20.813rem;
+    height: 17.813rem;
+    margin: 4px;
+}
+
+.integration-logo-wrap{
+    width: 90rem;
+}
